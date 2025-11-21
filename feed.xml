@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+
+    <title>U.S. Court of Appeals for the Federal Circuit – Oral Arguments</title>
+    <link>https://cafc.uscourts.gov</link>
+    <language>en-us</language>
+    <itunes:author>Your Name</itunes:author>
+    <description>Full-length oral arguments from the U.S. Court of Appeals for the Federal Circuit.</description>
+    <itunes:image href="YOUR_IMAGE_URL" />
+    <itunes:explicit>no</itunes:explicit>
+
+    <!-- Example Episode -->
+    <item>
+        <title>19-1080 – Arctic Cat v. BRP (April 9, 2020)</title>
+        <enclosure 
+            url="https://YOURUSERNAME.github.io/cafc-oral-arguments/2019-1080.mp3" 
+            length="1743647" 
+            type="audio/mpeg" />
+        <guid isPermaLink="false">19-1080</guid>
+        <pubDate>Thu, 09 Apr 2020 12:00:00 GMT</pubDate>
+        <description>Oral argument for Arctic Cat v. Bombardier Recreational Products.</description>
+    </item>
+
+</channel>
+</rss>
+
