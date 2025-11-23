@@ -4,15 +4,13 @@
     <link>https://cafc.uscourts.gov</link>
     <language>en-us</language>
 
-    <itunes:author>Your Name</itunes:author>
+    <itunes:author>Sneha S</itunes:author>
     <itunes:owner>
-      <itunes:name>Your Name</itunes:name>
-      <itunes:email>youremail@example.com</itunes:email>
+      <itunes:name>Sneha S</itunes:name>
+      <itunes:email>snehasridhar@gmail.com</itunes:email>
     </itunes:owner>
 
-    <itunes:image href="https://.../artwork.png"/>
     <itunes:explicit>no</itunes:explicit>
-
     <item>
       <title>2019-1161 – [Case Name]</title>
       <enclosure url="https://sneha-s2003.github.io/Federal-Circuit/2019-1161.mp3"
